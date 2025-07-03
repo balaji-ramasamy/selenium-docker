@@ -1,0 +1,12 @@
+{
+  "firstName" : "Michael",
+  "lastName" : "Jackson",
+  "email" : "mj@gmail.com",
+  "password" : "mj",
+  "street" : "123 main st",
+  "city" : "Atlanta",
+  "state" : "California",
+  "zip" : "50005",
+  "passengersCount": "1",
+  "expectedPrice" : "$584 USD"
+}

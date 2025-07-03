@@ -1,0 +1,12 @@
+{
+  "firstName" : "Jason",
+  "lastName" : "Voorhees",
+  "email" : "jv@gmail.com",
+  "password" : "jv",
+  "street" : "123 main st",
+  "city" : "Alabama",
+  "state" : "Alabama",
+  "zip" : "50005",
+  "passengersCount": "3",
+  "expectedPrice" : "$1753 USD"
+}

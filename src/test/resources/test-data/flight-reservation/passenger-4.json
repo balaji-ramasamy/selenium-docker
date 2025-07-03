@@ -1,0 +1,12 @@
+{
+  "firstName" : "Matt",
+  "lastName" : "Damon",
+  "email" : "md@gmail.com",
+  "password" : "md",
+  "street" : "123 main st",
+  "city" : "Florida",
+  "state" : "Florida",
+  "zip" : "50005",
+  "passengersCount": "4",
+  "expectedPrice" : "$2338 USD"
+}
