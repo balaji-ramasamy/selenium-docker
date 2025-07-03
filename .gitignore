@@ -52,6 +52,7 @@
 **/output
 Makefile
 
-
+**/result/
+.idea
 
 .DS_Store
