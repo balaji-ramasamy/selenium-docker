@@ -7,5 +7,8 @@ WORKDIR /home/selenium-docker
 ADD target/docker-resources ./
 ADD runner.sh runner.sh
 
+#Fix for windows
+RUN dos2unix runner.sh
+
 #start the runner sh
 ENTRYPOINT sh runner.sh

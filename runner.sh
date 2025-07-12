@@ -25,8 +25,8 @@ do
   echo "Attempt: ${count}"
   if [ "$count" -ge 30 ]
   then
-    echo "**** HUB IS NOT READY WITHIN 30 secs ****"
-    exit 1
+      echo "**** HUB IS NOT READY WITHIN 30 secs ****"
+      exit 1
   fi
   sleep 1
 done
